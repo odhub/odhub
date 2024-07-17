@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ode
+- 👋 Hi, beginer here 
 - 👀 I’m interested in Redhat, devops, Openshift, Kubernetes, Docker, etc
 - 🌱 I’m currently learning Container, Openshift, etc
 - 💞️ I’m looking to collaborate on Redhat, devops, Openshift, Kubernetes, Docker Projects 
